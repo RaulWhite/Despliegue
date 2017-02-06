@@ -6,6 +6,7 @@
   </head>
   <body>
     <h1>Despliegue desde Github</h1>
+    <p>PHPInfo del servidor:</p>
     <?php phpinfo(); ?>
   </body>
 </html>
